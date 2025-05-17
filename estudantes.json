@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Rafaela Coronheiro",
+    "idade": 19,
+    "nivel": "Iniciante"
+  },
+  {
+    "nome": "Isabela Alves",
+    "idade": 23,
+    "nivel": "Intermediario"
+  },
+  {
+    "nome": "Cézar Augusto",
+    "idade": 2,
+    "nivel": "Avançado"
+  }
+]

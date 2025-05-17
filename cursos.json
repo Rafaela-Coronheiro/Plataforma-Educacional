@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Pensamento l\u00f3gico Computacional",
+    "aulas": [
+      "Algoritmos",
+      "L\u00f3gica"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Programa\u00e7\u00e3o em Python",
+    "aulas": [
+      "Sintaxe",
+      "Fun\u00e7\u00f5es"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Seguran\u00e7a Digital",
+    "aulas": [
+      "Senhas",
+      "Privacidade"
+    ]
+  }
+]
